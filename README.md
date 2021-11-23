@@ -1,5 +1,11 @@
 ### [![MasterHead](https://64.media.tumblr.com/5040432f215ad46e94d8b6118a654c99/8f6495a2e4de4c3a-8f/s2048x3072/dff39b47b2fcbf9c87253ad262455f09c913b278.png)](https://github.com/CatharinyDamasceno)
 
+I am studying Systems Analysis and Development at the SENAC University Center. 📚 I have technical training in Fullstack by PROA Institute through the ProProfissão 4.0 course. 🥳 I am a great Technology enthusiast and I am always seeking to learn more about this universe that fascinates me so much. ❤️ In my free time, I like to play games, stay in Discord call with my friends and learn new recipes to cook (Gatronomy also has a place in my heart 👩🏼‍🍳). I hope you like my profile, feel at home. 😁
+
+
+
+
+
 <!--
 **CatharinyDamasceno/CatharinyDamasceno** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
