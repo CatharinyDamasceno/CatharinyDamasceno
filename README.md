@@ -7,10 +7,11 @@ In my free time, I like to play games, stay in Discord call with my friends and 
 I hope you like my profile, feel at home. 😁
 
 <p align="left">
-<a href="https://www.linkedin.com/in/catharinydamasceno/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="" height="30" width="40" /></a>
-<a href="https://www.instagram.com/cathariny.zz/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/catharinydamasceno/" target="blank"><img align="center" src="https://cdn.icon-icons.com/icons2/2699/PNG/512/linkedin_logo_icon_170234.png" alt="" height="30" width="30" /></a>
+<a href="https://www.instagram.com/cathariny.zz/" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/600px-Instagram_icon.png" alt="" height="30" width="30" /></a>
 
 
+  
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=CatharinyDamasceno&show_icons=true&theme=dracula)](https://github.com/CatharinyDamasceno/github-readme-stats) [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=CatharinyDamasceno&theme=dracula&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats) 
   
   
