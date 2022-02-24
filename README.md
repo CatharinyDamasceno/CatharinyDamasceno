@@ -17,9 +17,7 @@ I hope you like my profile, feel at home. 😁
 <h2 align="center">📊 GitHub Stats:</h2>
 <p align="center">
  
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=CatharinyDamasceno&show_icons=true&theme=dracula)](https://github.com/CatharinyDamasceno/github-readme-stats) &nbsp; &nbsp; &nbsp; [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CatharinyDamasceno&langs_count=8=true&theme=dracula)](https://github.com/CatharinyDamasceno/github-readme-stats)
-
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=CatharinyDamasceno&theme=dracula&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats) 
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=CatharinyDamasceno&show_icons=true&theme=dracula)](https://github.com/CatharinyDamasceno/github-readme-stats) &nbsp; &nbsp; &nbsp; [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CatharinyDamasceno&langs_count=8=true&theme=dracula)](https://github.com/CatharinyDamasceno/github-readme-stats)
 
 <h2 align="center">🌈 Somethings 🌈</h2>
 <p align="center"> 
